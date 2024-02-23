@@ -1,0 +1,5 @@
+seaborn
+scikit-learn
+streamlit-extras
+missingno
+statsmodels
